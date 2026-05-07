@@ -1,0 +1,357 @@
+
+Le Infezioni Sessualmente Trasmesse (IST)
+
+---
+
+ 1. DEFINIZIONE ED EPIDEMIOLOGIA
+
+Le Infezioni Sessualmente Trasmesse (IST) comprendono un ampio spettro di malattie infettive causate da oltre 30 batteri, virus e parassiti trasmessi principalmente per via sessuale (vaginale, anale, orale), ma anche attraverso il sangue, trapianti di organi/tessuti, e per via verticale (madre-figlio). Non si trasmettono attraverso contatti sociali ordinari (strette di mano, baci sulla guancia, uso di bagni pubblici).
+
+ Dati globali (OMS)
+- Ogni giorno oltre 1 milione di IST curabili vengono contratte nel mondo
+- Nel 2020: circa 374 milioni di nuove infezioni da clamidia, gonorrea, sifilide e tricomoniasi (nelle persone 15-49 anni)
+- Oltre 520 milioni di persone vivono con herpes genitale (HSV-2)
+- Circa 300 milioni di donne hanno un'infezione da HPV
+- Nel 2022 circa 1,1 milioni di donne in gravidanza erano infette da sifilide, con oltre 390.000 esiti avversi alla nascita
+- L'HPV causa oltre 311.000 decessi per cancro cervicale annui
+
+ Dati europei (ECDC)
+Nel 2023, rispetto al 2019, le notifiche nell'UE/SEE sono aumentate del 16% per la clamidia, del 138% per la gonorrea e del 53% per la sifilide. Gli uomini che hanno rapporti sessuali con uomini (MSM) sono sovrarappresentati: 73% dei casi di sifilide, 58% di gonorrea, 20% di clamidia.
+
+ Dati italiani (ISS, 2023)
+- Gonorrea: +83% in tre anni; 1.548 nuovi casi nel 2023 (massimo storico); quasi esclusivamente uomini (93,5%); età mediana 31 anni; MSM +8,5 volte rispetto al 2010
+- Sifilide primaria-secondaria: 752 nuovi casi nel 2023 (+25,5% rispetto al 2021); MSM >70% dei nuovi contagi; picco 2023 superiore del 27,9% rispetto a quello del 2016
+- Clamidia: 1.116 nuovi diagnosi nel 2023 (+21,4% rispetto al 2021); età mediana 29 anni; fascia 15-24 anni la più colpita
+- Condilomi ano-genitali: IST più frequentemente diagnosticata (circa 70.000 casi dal 1991); -21,4% tra 2021-2023, probabilmente per diffusione vaccinale HPV
+- Herpes genitale: +34,3% dal 2021; 333 nuovi casi nel 2023
+- Prevalenza HIV nelle persone con IST: 12,6% nel 2023 (più elevata negli MSM: 20,9%)
+
+---
+
+ 2. PRINCIPALI IST: CARATTERISTICHE CLINICHE E DIAGNOSTICHE
+
+ 2.1 Clamidia (Chlamydia trachomatis)
+Causa più frequente di IST in Europa. Colpisce prevalentemente giovani donne (18-24 anni). Nel 75% delle donne e nel 25% degli uomini è asintomatica. Quando presenti, i sintomi includono: perdite vaginali/uretrali/anali bianco-giallastre, dolore genitale, dolore pelvico, bruciore alla minzione, perdite ematiche intermestruali.
+- Complicanze: salpingite, malattia infiammatoria pelvica (MIP), gravidanza ectopica, infertilità, epididimite
+- Diagnosi: NAAT (test molecolari) su tamponi o urine, dopo almeno 14 giorni dall'esposizione
+- Trattamento: azitromicina 1 g singola dose, oppure doxiciclina 100 mg x2/die per 7 giorni
+- I partner degli ultimi 3 mesi devono essere informati e testati
+
+ 2.2 Gonorrea (Neisseria gonorrhoeae)
+Seconda causa di IST in Europa. Asintomatica nel 50% delle donne e nel 20% degli uomini. Sintomi: perdite giallo-verdastro, dolore/prurito, dolore pelvico, bruciore alla minzione. Infezioni faringee frequenti e difficili da eradicare.
+- Complicanze: salpingite, MIP, epididimite, infertilità
+- Criticità crescente: resistenza antibiotica, con ceppi resistenti ai chinolonici e ad alcune cefalosporine. Nel 2023, resistenza alle tetracicline al 58,4% nell'UE/SEE
+- Diagnosi: coltura o NAAT, dopo almeno 14 giorni
+- Trattamento attuale: ceftriaxone 250 mg IM singola dose + azitromicina 1 g orale (o cefixima 400 mg + azitromicina). Monitoraggio AMR essenziale
+
+ 2.3 Sifilide (Treponema pallidum)
+Decorso cronico con alternanza di fasi sintomatiche e asintomatiche. Terza IST in Europa.
+- Stadi: primaria (sifiloma indolore 9-90 gg); secondaria (rash cutaneo non pruriginoso, febbre, linfoadenopatia, 40-180 gg); latente (silenzio clinico, anche decenni); terziaria (danni irreversibili a sistema nervoso, cuore, reni, cute, ossa; ~1/3 dei non trattati)
+- Sifilide congenita: grave rischio per il neonato; prevenuta con screening in gravidanza
+- Diagnosi: test sierologici (VDRL/TPHA) su sangue; test rapidi disponibili. Conferma a laboratorio accreditato in caso di positività
+- Trattamento: penicillina benzatina IM (prima scelta, più efficace degli antibiotici orali)
+- Partner degli ultimi 3-6 mesi da informare
+
+ 2.4 Tricomoniasi (Trichomonas vaginalis)
+IST non virale più diffusa al mondo; più frequente nelle donne. Asintomatica nel 10-50% dei casi. Sintomi: prurito/bruciore genitale, perdite maleodoranti giallastre, dolore alla minzione. Aumenta il rischio di parto pretermine.
+- Diagnosi: NAAT o coltura su urine/tampone cervico-vaginale o uretrale, dopo almeno 21 giorni
+- Trattamento: metronidazolo 2 g singola dose, oppure metronidazolo 500 mg x2/die per 7 giorni
+- Partner degli ultimi 2 mesi da informare
+
+ 2.5 Herpes genitale (HSV-1 e HSV-2)
+Molto frequente (~1 persona su 10); nella stragrande maggioranza asintomatico (fino all'80%). Una volta contratto, il virus rimane latente nell'organismo (sistema nervoso) con possibili recidive. Sintomi (incubazione 2-13 gg): vescicole dolorose in regione ano-genitale, prurito/bruciore, linfoadenopatia inguinale, febbre.
+- Trasmissione possibile anche in assenza di lesioni visibili, specie nel primo anno
+- Grave rischio perinatale se lesioni attive al parto (neonato)
+- Diagnosi: osservazione clinica; conferma con test di biologia molecolare (PCR). I test anticorpali non sono utili a fini diagnostici
+- Trattamento: antivirali (aciclovir, valaciclovir); riducono durata, gravità e contagiosità; non curano l'infezione
+
+ 2.6 Condilomi ano-genitali e HPV (Human Papillomavirus)
+Circa 70% degli adulti contrare l'HPV almeno una volta nella vita. Due gruppi principali:
+- Ad alto rischio oncogeno (HPV 16, 18, 31, 33...): tumori cervice uterina, ano, genitali, faringe
+- A basso rischio (HPV 6, 11): condilomi ano-genitali (escrescenze cutanee, solitamente asintomatiche)
+- Diagnosi: osservazione clinica; Pap test/HPV-test per screening del carcinoma cervicale (raccomandato dai 30 anni ogni 5 anni)
+- Trattamento condilomi: creme immunostimolanti, crioterapia, laser, diatermocoagulazione
+- Prevenzione cardine: vaccinazione (protegge da 9 tipi HPV); offerta gratuita in Italia ai 12 anni per maschi e femmine; efficace se effettuata prima dell'inizio dell'attività sessuale
+
+ 2.7 Infezione da HIV (Human Immunodeficiency Virus)
+Pandemia riconosciuta negli anni '80; circa 39,9 milioni di persone infette nel 2023. In Italia, 1.888 nuove diagnosi nel 2022. L'infezione rimane silenziosa per anni, con progressivo indebolimento del sistema immunitario fino all'AIDS.
+- Trasmissione: rapporti sessuali non protetti (via principale); sangue (siringhe, trasfusioni ormai rara in Italia); verticale (madre-figlio)
+- Diagnosi: test di 4ª generazione (Ag/Ab); test rapidi; test molecolare RNA (più precoce). Test HIV: anonimo, gratuito, volontario, confidenziale in Italia
+- Trattamento: terapia antiretrovirale (ART) altamente efficace, gratuita in Italia; non guarisce ma controlla il virus e preserva l'immunità
+- Prevenzione aggiuntiva: PEP (profilassi post-esposizione, entro 72h), PrEP (profilassi pre-esposizione), TasP (Treatment as Prevention)
+- Le persone con IST hanno un rischio 75 volte maggiore di contrarre HIV rispetto alla popolazione generale
+
+ 2.8 Epatiti virali a trasmissione sessuale
+- Epatite A (HAV): trasmissione prevalentemente oro-fecale; contagio sessuale possibile (rapporti anali, oro-anali). Guarisce spontaneamente. Vaccino disponibile ed efficace
+- Epatite B (HBV): 254 milioni di persone infette nel 2022; prima causa infettiva di carcinoma epatico. Trasmissione sessuale significativa. Farmaci disponibili (non curano). Vaccino obbligatorio in Italia dal 1991 per i neonati; fortemente raccomandato per persone a rischio
+- Epatite C (HCV): 55 milioni di persone infette. Trasmissione principalmente ematica; sessuale possibile (soprattutto MSM). Spesso asintomatica, può cronicizzare (20-30% sviluppa cirrosi/carcinoma). Farmaci antivirali ad azione diretta garantiscono guarigione >95%. Nessun vaccino disponibile. Screening gratuito per nati 1969-1989 in Italia
+
+ 2.9 Mpox (Monkeypox Virus)
+Dal 2022, diffusione significativa fuori dall'Africa, principalmente per via sessuale. Due clade (I più grave; II). Sintomi: febbre, linfonodi ingrossati, lesioni cutanee/mucose (macchie→vescicole→croste). Guarisce spontaneamente in 2-4 settimane. Diagnosi in laboratori specializzati. Vaccino anti-vaiolo protettivo. Il preservativo non elimina completamente il rischio (trasmissione per contatto cutaneo diretto).
+
+---
+
+ 3. PREVENZIONE
+
+ 3.1 Metodi di barriera
+Il preservativo maschile, usato correttamente e costantemente, è lo strumento più efficace contro HIV e IST. Riduce il rischio di trasmissione HIV da 10 a 20 volte. Efficace contro clamidia, gonorrea, tricomoniasi, sifilide. Protezione parziale contro HSV e HPV (trasmissione per contatto cutaneo in aree non coperte).
+
+Uso corretto del preservativo maschile:
+1. Controllare data di scadenza e integrità della confezione (bolla d'aria interna)
+2. Aprire con cura, evitando unghie/denti; spingere il condom di lato prima di aprire
+3. Verificare il verso (bordo arrotolato all'esterno)
+4. Schiacciare la punta per eliminare l'aria (spazio serbatoio ~1-2 cm)
+5. Indossare sul pene eretto prima di qualsiasi contatto genitale
+6. Srotolare fino alla base
+7. Usare lubrificante a base acquosa o siliconica (mai oli/vaselina con lattice)
+8. Al termine, rimuovere con il pene ancora eretto tenendo il bordo, fare un nodo, avvolgere e gettare nella spazzatura (mai nel WC)
+9. Usare un nuovo preservativo per ogni atto e per ogni cambio di pratiche (anale→vaginale)
+10. Non usare mai due preservativi contemporaneamente (aumenta attrito e rischio rottura)
+
+Il preservativo femminile offre protezione equivalente; gestito dalla donna; compatibile con lubrificanti oleosi (non è in lattice). Dental dam: barriera in lattice per rapporti oro-vaginali e oro-anali.
+
+Errori comuni da evitare: non controllare la scadenza; aprire la confezione con oggetti affilati; indossare dopo l'inizio del rapporto; non schiacciare la punta; metterlo al contrario; toglierlo durante il rapporto; non tenere la base all'estrazione; usare lubrificanti oleosi; taglia sbagliata; non cambiarlo tra pratiche diverse; non usarlo sui sex toys.
+
+ 3.2 Vaccinazioni
+- HPV: raccomandata a 12 anni per tutti (maschi e femmine) in Italia; protegge da 9 tipi HPV (prevenzione condilomi e tumori)
+- Epatite B: universale per i neonati dal 1991; raccomandata per persone a rischio (MSM, tossicodipendenti, malattie epatiche croniche)
+- Epatite A: raccomandata per viaggiatori in zone endemiche, MSM, malattie croniche del fegato
+- Mpox/Vaiolo: protettivo anche contro Mpox
+
+ 3.3 Profilassi farmacologica
+- PrEP (profilassi pre-esposizione HIV): emtricitabina/tenofovir per persone HIV-negative ad alto rischio; rimborsabile in Italia dal 2023, prescritta dall'infettivologo; non protegge dalle altre IST
+- PEP (profilassi post-esposizione HIV): da iniziare entro 72 ore dall'esposizione a rischio; presso PS o malattie infettive
+- Doxy-PEP (doxiciclina 200 mg entro 24-72h da rapporto non protetto): raccomandato dall'ECDC solo per gruppi ad alto rischio (MSM, donne transgender con storia di IST), prioritariamente contro sifilide e clamidia. Non efficace contro gonorrea (resistenza tetraciclina al 58,4% in Europa). Rischio di sviluppo di resistenza antimicrobica (AMR); non indicato come misura di popolazione; da integrare in strategia complessiva di salute sessuale con monitoraggio periodico
+
+ 3.4 Riduzione del rischio: regole del sesso sicuro
+- Usare il preservativo in tutti i rapporti occasionali
+- Ridurre il numero di partner sessuali
+- Non assumere alcol o sostanze prima di rapporti sessuali
+- Non avere rapporti in presenza di lesioni/perdite genitali proprie o del partner
+- Astenersi dai rapporti durante la terapia per IST
+- Comunicare eventuali IST al partner
+- Effettuare test regolari se si hanno partner occasionali
+- Ricordare che un'IST pregressa non protegge da nuove infezioni
+
+---
+
+ 4. DIAGNOSI E SCREENING
+
+ 4.1 Principi generali
+Molte IST sono asintomatiche: l'assenza di sintomi non esclude l'infezione. I test diagnostici molecolari (NAAT) sono i più accurati per clamidia, gonorrea, Trichomonas. Test rapidi disponibili per HIV, sifilide ed epatiti.
+
+ 4.2 Esami consigliati dopo un rapporto a rischio
+
+| Infezione | Tipo di test | Periodo finestra (attendibilità) |
+|---|---|---|
+| HIV | 4ª gen (Ag/Ab); RNA/PCR (più precoce ma non routinario) | 20-45 gg (4ª gen); 10-14 gg (RNA) |
+| Clamidia/Gonorrea | NAAT (tamponi o urine) | 7-14 giorni |
+| Sifilide | Sierologici (VDRL/TPHA) | 30-90 giorni |
+| Epatite B | Sierologici (HBsAg) | 4-8 settimane |
+| Epatite C | Sierologici (anti-HCV); RNA precoce | 8-12 settimane (sierologia) |
+| Herpes (HSV) | PCR solo su lesioni attive | In presenza di lesioni |
+| HPV | Pap test/HPV-test | Donne dai 30 anni, ogni 5 anni |
+
+Schema pratico post-esposizione:
+- Entro 72h: valutare PEP per HIV
+- Dopo 7-14 gg: NAAT clamidia + gonorrea
+- Dopo 30 gg: HIV (4ª gen) + sifilide + epatite B
+- Dopo 90 gg: controllo finale (HIV, sifilide, epatite C)
+
+ 4.3 Screening in gravidanza (raccomandazioni CDC)
+
+| Infezione | Raccomandazione |
+|---|---|
+| Clamidia | 1° trimestre; ripetere per fattori di rischio |
+| Gonorrea | Se fattori di rischio o partner positivo |
+| Sifilide | 1° trimestre + 3° trimestre |
+| HIV | 1° trimestre + 3° trimestre |
+| Epatite B | 1° + 3° trimestre |
+| Epatite C | Solo se accertato rischio |
+| Herpes (HSV) | Se sintomi/lesioni |
+| HPV | Se lesioni sospette |
+| Tricomoniasi | Se fattori di rischio o sintomi |
+| Infezioni batteriche urinarie | 1° trimestre; urinocoltura |
+| Streptococco β-emolitico Gr. B | 36ª settimana (tampone vaginale) |
+| Toxoplasmosi | 1° trimestre + fasi successive |
+| Rosolia | 1° trimestre; vaccinazione pre-gravidanza se necessario |
+| Citomegalovirus | Solo se sintomi sospetti |
+
+---
+
+ 5. TRATTAMENTO E RESISTENZA ANTIMICROBICA
+
+Le IST batteriche (clamidia, gonorrea, sifilide, tricomoniasi) sono generalmente curabili con antibiotici. Le IST virali (HIV, HSV, epatite B, HPV) non sono curabili, ma trattabili con antivirali o gestibili con vaccini.
+
+La resistenza antimicrobica (AMR) è una minaccia crescente, in particolare per:
+- Gonorrea: ceppi resistenti a chinoloni, azitromicina, cefalosporine; sorveglianza attiva tramite GASP (WHO)
+- Mycoplasma genitalium: resistenza ai macrolidi in aumento; moxifloxacina come alternativa
+- Trichomonas vaginalis: emergente resistenza al metronidazolo
+
+Principio fondamentale: usare l'antibiotico giusto, al dosaggio corretto, al momento opportuno. Trattare sempre il/la partner per prevenire la reinfezione.
+
+---
+
+ 6. POPOLAZIONI SPECIALI E ASPETTI PSICO-SOCIALI
+
+ 6.1 Giovani e adolescenti
+- In Italia, nel 2022, il 21,6% dei ragazzi e il 18,4% delle ragazze di 15 anni hanno avuto un rapporto sessuale completo
+- Uso del preservativo in calo: dal 70% (2014) al 61% (2022) nei ragazzi; dal 63% al 57% nelle ragazze
+- Il 30% degli adolescenti non usa alcuna contraccezione
+- Disparità socioeconomiche: il 33% degli adolescenti a basso reddito non usa contraccettivi
+- La fascia 15-24 anni è la più colpita da clamidia
+
+ 6.2 Rischi legati all'informazione online
+Internet è la principale fonte di informazione sessuale per i giovani, con rischi significativi:
+- Esposizione precoce a pornografia: modelli irrealistici, normalizzazione del sesso non protetto, ansia da prestazione, possibile dipendenza
+- Informazioni incomplete o errate su metodi contraccettivi e prevenzione IST
+- Accesso a farmaci stimolanti senza indicazione medica
+- Sex toys condivisi come veicolo di trasmissione
+- Mancanza di competenze critiche per distinguere contenuti validi da fuorvianti
+- Correlazione con comportamenti sessuali a rischio e IST/gravidanze indesiderate
+
+ 6.3 Disagio psicologico nella costruzione della sessualità
+- In Italia, ~49% dei giovani non parla di sessualità con i genitori
+- ~8 giovani su 10 provano difficoltà ad affrontare temi sessuali con adulti
+- L'educazione sessuale non è sistematicamente inserita nei programmi scolastici italiani
+- Conseguenze: ansia, senso di inadeguatezza, confusione identitaria, comportamenti a rischio
+- Violenza nelle relazioni giovanili: correlata a disagio psicologico, difficoltà nella regolazione emotiva, modelli relazionali disfunzionali amplificati dai media digitali
+- Necessità urgente di programmi strutturati di educazione affettivo-sessuale nelle scuole
+
+---
+
+ 7. MODELLI ORGANIZZATIVI PER L'ASSISTENZA ALLE IST
+
+ 7.1 Situazione attuale in Italia
+Il sistema assistenziale per le IST è disomogeneo e frammentato:
+- Pochi centri IST ad alta specializzazione a livello nazionale
+- Servizi territoriali spesso scollegati tra loro
+- Assenza di elenchi/recapiti sui siti regionali
+- Mancanza di piani diagnostico-terapeutici regionali
+- Formazione del personale sanitario insufficiente
+- Normative regionali datate, per lo più focalizzate solo sull'HIV
+
+ 7.2 Il modello Hub & Spoke
+Sviluppato nell'ambito del Programma CCM 2019 (ISS + Sapienza + centri di Torino, Milano, Cagliari, laboratori di Trieste, Firenze, Palermo), propone:
+
+Centro Hub-IST (polo di eccellenza ospedaliero/universitario):
+- Almeno 1.000 prime visite/anno
+- Team multidisciplinare: dermatologia, ginecologia, malattie infettive, urologia, andrologia, pediatria, counsellor/psicologo, infermieri, ostetriche
+- Laboratorio di sierologia e viro-microbiologia di ultima generazione
+- Accesso diretto, gratuito, anonimo, confidenziale (senza impegnativa)
+- Screening gratuiti per sifilide, gonorrea, clamidia, trichomonas, HIV, HCV
+- Aperto almeno 5 giorni/settimana, min. 3 ore/giorno
+- Gestione PrEP, PEP, contraccezione d'emergenza
+- Contact tracing, partner notification
+- Vaccinazioni (HBV, HAV, HPV)
+- Collegamento con reti di sorveglianza e notifica obbligatoria
+
+Centri Spoke-IST: MMG, consultori, ambulatori territoriali, pediatri, farmacie, terzo settore → invio al centro Hub per approfondimenti
+
+Percorso Integrato di Cura (PIC):
+1. Accoglienza e accettazione (di persona, telefono, mail)
+2. Prima fase: raccolta anamnestica da infermiere formato, colloquio pre-test, indirizzamento
+3. Seconda fase: visita medica specialistica, diagnosi, trattamento, contact tracing, follow-up
+4. Refertazione e archiviazione informatizzata
+5. Collegamento con spoke territoriali
+
+Risultati della sperimentazione (4 mesi, 3 sedi): +34% accessi a Trieste; miglioramento tempi di attesa; aumento pazienti asintomatici; attivazione collegamenti intra-struttura; accoglienza positiva dalle direzioni sanitarie.
+
+---
+
+ 8. STRATEGIA GLOBALE OMS 2022-2030
+
+La strategia dell'OMS per HIV, epatite virale e IST 2022-2030 ha l'obiettivo di porre fine alle epidemie entro il 2030, con visione integrata e centrata sulla persona.
+
+ Obiettivi principali al 2030
+- Nuovi casi IST batteriche <150 milioni/anno (da 374 milioni, 2020)
+- Nuovi casi sifilide <0,71 milioni (da 7,1 milioni)
+- Nuovi casi gonorrea <8,23 milioni (da 82,3 milioni)
+- Casi sifilide congenita <50/100.000 nati vivi (da 425)
+- 90% delle ragazze vaccinate HPV entro 15 anni (da 14%)
+- 100 Paesi validati per eliminazione trasmissione verticale HIV/HBV/sifilide (da 15)
+
+ 5 Direzioni Strategiche
+1. Servizi di alta qualità, evidence-based, centrati sulla persona: prevenzione primaria, riduzione del danno, eliminazione trasmissione verticale, test integrati, notifica partner, riduzione stigma
+2. Ottimizzare sistemi, settori e partnership: copertura sanitaria universale, cure primarie, erogazione differenziata, governance, finanziamento, personale sanitario, determinanti sociali
+3. Dati per le decisioni: sistemi informativi, monitoraggio person-centred, disaggregazione per sesso/età/popolazioni chiave
+4. Comunità e società civile empowered: advocacy, erogazione servizi, monitoraggio comunitario
+5. Innovazioni per l'impatto: nuovi diagnostici, vaccini, farmaci, modalità di erogazione
+
+ Driver trasversali
+- Equità di genere e diritti umani: eliminare discriminazione e criminalizzazione delle popolazioni chiave
+- Finanziamento sostenibile: integrazione IST nei pacchetti essenziali di assistenza sanitaria
+- Partnership e leadership: approccio "whole-of-government", collaborazione multi-settoriale
+
+---
+
+ 9. HPV, MICROBIOTA VAGINALE E CANCEROGENESI CERVICALE
+
+L'HPV ad alto rischio (tipi 16, 18, 31, 33, 35...) è il fattore centrale nella carcinogenesi cervicale. Il 90% delle infezioni si risolve spontaneamente in 12-24 mesi. Il 10% persiste, con rischio aumentato di lesioni di alto grado (CIN/HSIL) e carcinoma.
+
+Ruolo del microbiota vaginale (ricerca emergente):
+Lo studio di Ravel (2011) ha identificato 5 "Community State Types" (CST) del microbiota vaginale:
+- CST I (Lactobacillus crispatus): più stabile e protettivo; maggiore tasso di clearance HPV
+- CST II (L. gasseri): simile, leggermente meno stabile
+- CST III (L. iners): variabile, stato di transizione verso disbiosi
+- CST V (L. jensenii): protettivo
+- CST IV (flora eterogenea, anaerobi - Gardnerella, Prevotella, Mobiluncus): associato a pH elevato, vaginosi batterica, maggiore suscettibilità alle IST e progressione HPV
+
+Evidenze sul legame microbiota-HPV:
+- CST IV presente nel 10% dei profili normali, 21% LSIL, 27% HSIL, 40% carcinoma invasivo
+- CST I associato a maggiore tasso di regressione spontanea delle lesioni CIN2
+- Disbiosi correlata alla persistenza dell'infezione HPV e alla progressione neoplastica
+- Vaginosi batterica (CST IV) correlata alla persistenza dell'HPV
+
+Approcci terapeutici sperimentali:
+- Probiotici (es. Lactobacillus crispatus M247 orale): studio RCT su 62 donne → 60% clearance HPV vs 31,8% placebo; ripristino eubiosi vaginale
+- Trapianto di microbiota vaginale (VMT): fattibile in casi di vaginosi batterica recidivante resistente; richiede studi controllati per validazione
+
+Aree di incertezza: causalità non ancora definitivamente provata; eterogeneità degli studi; mancanza di studi longitudinali robusti; modalità di intervento non standardizzate
+
+---
+
+ 10. ASPETTI MEDICO-LEGALI
+
+La consulenza ginecologica in contesto IST è un ambito ad elevata complessità medico-legale:
+
+ Obblighi clinici
+- Consenso informato per ogni accertamento e trattamento
+- Anamnesi accurata (comportamenti a rischio, numero di partner, eventuale coercizione)
+- Test sierologici (HIV, sifilide, epatiti), tamponi, test di gravidanza nelle donne fertili
+- Prescrizione profilassi post-esposizione quando indicata
+- Follow-up adeguato
+- La mancata prescrizione/esecuzione può configurare responsabilità civile e penale
+
+ Notifica obbligatoria
+Sifilide e gonorrea sono soggette a notifica obbligatoria alle autorità sanitarie (ASL/ISS), generalmente in forma anonima. L'omissione può comportare responsabilità penale e civile, specie se contribuisce alla diffusione del contagio.
+
+ Obbligo di referto/denuncia
+Il ginecologo, in qualità di esercente un servizio di pubblica utilità, deve redigere referto all'Autorità Giudiziaria in caso di sospetto reato perseguibile d'ufficio (es. violenza sessuale), con corretta raccolta delle prove e catena di custodia.
+
+ Minori
+- Hanno diritto a consulenze, assistenza diagnostica e contraccettiva con garanzia della privacy
+- In caso di sospetto abuso o rapporti non consensuali: obbligo rafforzato di segnalazione alle autorità giudiziarie e ai servizi sociali
+- L'omessa segnalazione può integrare reati di omissione di referto
+
+ Farmacie
+Possono erogare contraccettivi (inclusa pillola e contraccezione d'emergenza) e test rapidi HIV, anche ai minori, con rispetto della privacy.
+
+---
+
+ 11. SINTESI DELLE RACCOMANDAZIONI PRINCIPALI
+
+1. Usare sempre il preservativo in rapporti occasionali o con nuovi partner, in modo corretto e costante (vaginale, anale, orale)
+2. Vaccinarsi contro HPV (entro 26 anni), epatite B (se non immune), epatite A (se a rischio)
+3. Effettuare test regolari per IST e HIV in caso di partner occasionali o a rischio (schema temporale: 14 gg per clamidia/gonorrea; 30 gg per HIV/sifilide; 90 gg per conferma finale)
+4. Informare sempre il partner in caso di diagnosi di IST; astenersi dai rapporti fino alla guarigione
+5. Non automedicarsi: rivolgersi a un medico o a un centro IST per diagnosi e terapia corrette
+6. In gravidanza: seguire lo screening raccomandato per tutte le principali IST
+7. In caso di esposizione a rischio entro 72 ore: valutare PEP per HIV presso PS/malattie infettive
+8. Promuovere l'educazione sessuale strutturata a scuola e il dialogo in famiglia per i giovani
+9. Combattere lo stigma: le IST riguardano chiunque abbia rapporti sessuali; la diagnosi precoce protegge sé stessi e i partner
+10. Sostenere lo sviluppo di centri IST Hub & Spoke e di un piano strategico nazionale per le IST in Italia
+
+---
+
+> ⚠️ AVVERTENZA IMPORTANTE: Le informazioni contenute in questo documento hanno scopo puramente informativo e non costituiscono in alcun modo un consiglio medico. Per diagnosi, terapia e assistenza specialistica è indispensabile consultare un medico o un centro IST. In caso di dubbi o urgenza, contattare il Telefono Verde AIDS e IST dell'ISS: 800.861.061 (anonimo, gratuito, lun-ven 13:00-18:00).
